@@ -11,25 +11,4 @@ This project is a Password Generator that creates secure and random passwords ba
 - **Random Generation**: The password is generated randomly to ensure security.
 - **User-Friendly Interface**: Simple and intuitive interface for easy use.
 
-## Usage
 
-1. **Clone the Repository**: Clone the repository to your local machine using the following command:
-    ```sh
-    git clone https://github.com/yourusername/password-generator.git
-    ```
-
-2. **Navigate to the Project Directory**: Change to the project directory:
-    ```sh
-    cd password-generator
-    ```
-
-3. **Run the Application**: Execute the application to generate a password:
-    ```sh
-    python password_generator.py
-    ```
-
-4. **Specify Criteria**: Follow the prompts to specify the length and character types for your password.
-
-## Example
-
-Here is an example of how to use the Password Generator:
