@@ -1,5 +1,5 @@
 import React from "react";
-import Password from "./password";
+import Password from "./Password";
 
 const App = () => {
   return (
