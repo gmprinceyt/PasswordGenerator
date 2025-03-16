@@ -1,6 +1,5 @@
 import React, { useCallback, useEffect, useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
-import { DiTravis } from "react-icons/di";
 import { FiArrowRight, FiRefreshCw } from "react-icons/fi";
 
 const Password = () => {

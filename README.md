@@ -1,5 +1,8 @@
 # My Project: Password Generator
 
+*Project link: ->*
+```https://password-generator-drab-seven.vercel.app/```
+
 ## Overview
 
 This project is a Password Generator that creates secure and random passwords based on user-defined criteria. It allows users to specify the length of the password and the types of characters to include, such as uppercase letters, lowercase letters, numbers, and special characters.
