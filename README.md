@@ -12,6 +12,9 @@ This project is a Password Generator that creates secure and random passwords ba
 - **Customizable Length**: Users can specify the desired length of the password.
 - **Character Types**: Users can choose to include uppercase letters, lowercase letters, numbers, and special characters.
 - **Random Generation**: The password is generated randomly to ensure security.
-- **User-Friendly Interface**: Simple and intuitive interface for easy use.
+- **User-Friendly Interface**: Simple and intuitive interface for easy use.####
 
-
+## Tech Stack & Tools  
+- React Js 
+- Javascript
+- React Hooks - (UseCallback, UseRef);
